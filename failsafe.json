@@ -2,6 +2,6 @@
 	"message" : "This is a test failsafe message.",
 	"buttonText" : "Go to updated version",
 	"link" : "https://rugbugredfern.itch.io/redmatch2",
-	"block" : "true",
+	"block" : "false",
 	"versionException" : "1.1.0"
 }
