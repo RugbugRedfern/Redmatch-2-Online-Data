@@ -1,7 +1,7 @@
 {
-	"message" : "Due to issues with hackers, servers are currently down.",
-	"buttonText" : "Join the discord to learn more",
-	"link" : "https://discord.gg/RdHyPc4",
+	"message" : "New version available.",
+	"buttonText" : "Download the updated version on itch.io",
+	"link" : "https://rugbugredfern.itch.io/redmatch2",
 	"block" : "true",
 	"versionException" : "1.1.1"
 }
