@@ -1,7 +1,7 @@
 {
-	"message" : "New version available.",
+	"message" : "New version available - 1.1.2\n<size=30>Featuring online accounts, battle royale, and a new map!</size>",
 	"buttonText" : "Download the updated version on itch.io",
 	"link" : "https://rugbugredfern.itch.io/redmatch2",
 	"block" : "true",
-	"versionException" : "1.1.1"
+	"versionException" : "1.1.2"
 }
