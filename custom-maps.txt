@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/RugbugRedfern/Redmatch2CustomMapTesting/main/map.json
