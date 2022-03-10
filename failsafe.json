@@ -1,7 +1,7 @@
 {
-	"message" : "There's currently a bug where you can't select a map! I'll fix it when I get home.",
+	"message" : "There's currently a bug where you can't select a map! I'll fix it when I get home. Sorry all!",
 	"buttonText" : "",
-	"link" : "",
+	"link" : "https://i.ibb.co/GRqcb6g/image.png",
 	"block" : "false",
 	"versionException" : "1.22.10"
 }
