@@ -1,7 +1,7 @@
 {
-	"message" : "Redmatch 2 is now only available on Steam",
-	"buttonText" : "Get Redmatch 2 on Steam",
-	"link" : "https://store.steampowered.com/app/1280770/Redmatch_2/",
-	"block" : "true",
-	"versionException" : "1.11.0"
+	"message" : "There's currently a bug where you can't select a map! I'll fix it when I get home.",
+	"buttonText" : "",
+	"link" : "",
+	"block" : "false",
+	"versionException" : "1.22.10"
 }
