@@ -1,7 +1,7 @@
 {
-	"message" : "Steam servers are currently down. Try again later.",
-	"buttonText" : "View down status",
-	"link" : "https://downdetector.com/status/steam/",
-	"block" : "false",
-	"versionException" : "1.31.0"
+	"message" : "Redmatch 2 is now only available on Steam",
+	"buttonText" : "Get Redmatch 2 on Steam",
+	"link" : "https://store.steampowered.com/app/1280770/Redmatch_2/",
+	"block" : "true",
+	"versionException" : "1.11.0"
 }
