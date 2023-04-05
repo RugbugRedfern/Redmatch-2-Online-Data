@@ -1,0 +1,5 @@
+VoteDuration=15
+VoteIntervalWaitTime=240
+VoteJoinWaitTime=120
+ParticipationRequirementPercent=0.6
+MajorityRequirementPercentT=0.8
