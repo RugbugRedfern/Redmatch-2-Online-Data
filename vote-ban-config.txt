@@ -3,3 +3,4 @@ VoteIntervalWaitTime=240
 VoteJoinWaitTime=120
 ParticipationRequirementPercent=0.7
 MajorityRequirementPercent=0.85
+LevelRequirement=25
