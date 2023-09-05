@@ -8,3 +8,4 @@ LobbyBucketScanCount=10
 LobbyBucketGenerateCount=10
 CustomMapStatElegibilityMinVotesRequired=200
 CustomMapStatElegibilityVotePercentageRequired=0.75
+MaxSelectableMaps=50
