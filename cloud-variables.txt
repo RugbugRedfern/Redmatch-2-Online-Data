@@ -6,5 +6,5 @@ VoteMajorityRequirementPercent=0.85
 VoteLevelRequirement=40
 LobbyBucketScanCount=10
 LobbyBucketGenerateCount=10
-CustomMapStatElegibilityMinVotesRequired=300
-CustomMapStatElegibilityVotePercentageRequired=0.8
+CustomMapStatElegibilityMinVotesRequired=200
+CustomMapStatElegibilityVotePercentageRequired=0.75
