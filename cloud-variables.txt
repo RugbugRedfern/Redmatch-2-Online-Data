@@ -9,5 +9,5 @@ LobbyBucketGenerateCount=3
 CustomMapStatElegibilityMinVotesRequired=200
 CustomMapStatElegibilityVotePercentageRequired=0.75
 MaxMapPoolSize=50
-EnforcerHeartbeatBanEnabled=True
+EnforcerHeartbeatBanEnabled=False
 EnforcerMaxInvalidTickets=4
