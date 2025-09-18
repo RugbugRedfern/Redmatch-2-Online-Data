@@ -11,3 +11,4 @@ CustomMapStatElegibilityVotePercentageRequired=0.5
 MaxMapPoolSize=50
 EnforcerHeartbeatBanEnabled=False
 EnforcerMaxInvalidTickets=4
+BulletLifespan=15
